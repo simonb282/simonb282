@@ -1,7 +1,7 @@
 # Simon Becker
 
 ## About Me
-I am in the first year of a Master's degree in Physics at ENS de Lyon.
+I am in the first year of a Master's degree in Physics at ENS de Lyon (France).
 
 <!---
 simonb282/simonb282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
